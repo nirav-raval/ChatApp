@@ -2,7 +2,7 @@
 
 Looking for app link ?
 
-[Click to open link](https://nirav-raval.github.io/ChatApp/ )
+[Click to open app](https://nirav-raval.github.io/ChatApp/ )
 
 This is Live group chat app repository. You can either login using the code given in app or anonymosly. 
 
